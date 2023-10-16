@@ -15,7 +15,9 @@ Certainly, here's a slightly longer but still concise explanation:
 In this reprositary, codes demonstrating class and constructor/deconstrutor.
 
 ## File 1
-In this file we demonstrate functioning and creation of class. By taking an example of findign the volume of a cube.
+
+CODE 1:
+In this we demonstrate functioning and creation of class. By taking an example of findign the volume of a cube.
 
 Algorithm:
 
@@ -25,6 +27,16 @@ Algorithm:
 4. In the main program, create an instance of the "cube" class.
 5. Calculate the volume and display it.
 
+CODE 2:
+In this we display date using class.
+
+Algorithm:
+1. Create a class that represents a date with three integer attributes.
+2. Implement a method to check if the year is a leap year and return a boolean result.
+3. Implement a method to display the day part of the date.
+4. Implement a method to display the month as a string using an array of month names.
+
+   
 ## File 2
 In this, we demonstrate the use and implementation of constructor and deconstructor.
 
