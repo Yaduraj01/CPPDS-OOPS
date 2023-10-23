@@ -27,6 +27,9 @@ In this we demonstrate functioning and creation of class. By taking an example o
 4. In the main program, create an instance of the "cube" class.
 5. Calculate the volume and display it.
 
+## Output
+![image](https://github.com/Yaduraj01/CPPDS-OOPS-class/assets/110488113/28eb85cc-8a5b-4fca-8566-aff4bc585a44)
+
 CODE 2:
 In this we display date using class.
 
@@ -35,6 +38,10 @@ In this we display date using class.
 2. Implement a method to check if the year is a leap year and return a boolean result.
 3. Implement a method to display the day part of the date.
 4. Implement a method to display the month as a string using an array of month names.
+
+## Output
+![image](https://github.com/Yaduraj01/CPPDS-OOPS-class/assets/110488113/b28faed6-01ab-462e-a8c1-cce2d765b04c)
+
 
    
 ## File 2
