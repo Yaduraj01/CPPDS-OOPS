@@ -16,7 +16,7 @@ In this reprositary, codes demonstrating class and constructor/deconstrutor.
 
 ## File 1
 
-CODE 1:
+## CODE 1:
 In this we demonstrate functioning and creation of class. By taking an example of findign the volume of a cube.
 
 ## Algorithm:
@@ -30,7 +30,7 @@ In this we demonstrate functioning and creation of class. By taking an example o
 ## Output
 ![image](https://github.com/Yaduraj01/CPPDS-OOPS-class/assets/110488113/28eb85cc-8a5b-4fca-8566-aff4bc585a44)
 
-CODE 2:
+## CODE 2:
 In this we display date using class.
 
 ## Algorithm:
