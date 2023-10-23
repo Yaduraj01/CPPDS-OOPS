@@ -19,7 +19,7 @@ In this reprositary, codes demonstrating class and constructor/deconstrutor.
 CODE 1:
 In this we demonstrate functioning and creation of class. By taking an example of findign the volume of a cube.
 
-Algorithm:
+## Algorithm:
 
 1. Define a class "cube" with default dimensions.
 2. Inside the class, create a method to calculate the volume.
@@ -30,7 +30,7 @@ Algorithm:
 CODE 2:
 In this we display date using class.
 
-Algorithm:
+## Algorithm:
 1. Create a class that represents a date with three integer attributes.
 2. Implement a method to check if the year is a leap year and return a boolean result.
 3. Implement a method to display the day part of the date.
